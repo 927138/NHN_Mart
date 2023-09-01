@@ -1,0 +1,18 @@
+
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ºÉëùÿÿÿÿ8÷™ú‰¥1
+r	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¼‰ùÿÿÿÿ8ø™ú‰¥1
+s
+java:S1450	"VRemove the "counter" field and declare it as a local variable in the relevant methods.(Ê¤¼À8ˆšú‰¥1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(“¬Ââ8‰šú‰¥1
+T
+java:S1135"2Complete the task associated to this TODO comment.(Æ‡‚ƒÿÿÿÿÿ8‰šú‰¥1
+G	java:S106"+Replace this use of System.out by a logger.(ÓÒ©˜8Ššú‰¥1
+G	java:S1068"+Replace this use of System.out by a logger.(™Û¶8Œšú‰¥1
+G	java:S106:"+Replace this use of System.out by a logger.(×³ª¨8Œšú‰¥1
+T
+java:S1135?"2Complete the task associated to this TODO comment.(Å¡Éüÿÿÿÿ8Œšú‰¥1
+F	java:S106G"+Replace this use of System.out by a logger.(í«c8Œšú‰¥1
+L	java:S106H"+Replace this use of System.out by a logger.(Ÿ›µøøÿÿÿÿ8Œšú‰¥1
+H
+java:S1068	"+Remove this unused "counter" private field.(Ê¤¼À8Œšú‰¥1
