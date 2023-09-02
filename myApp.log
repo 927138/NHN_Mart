@@ -1,0 +1,45 @@
+2023-09-02 15:15:06,240 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:57] - buylist storage list : 2
+2023-09-02 15:15:06,249 [main] INFO c.n.m.Customer [Customer.java:29] - receive buylist : 2
+2023-09-02 15:17:20,049 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:57] - buylist storage list : 1
+2023-09-02 15:17:20,058 [main] INFO c.n.m.Customer [Customer.java:29] - receive buylist : 1
+2023-09-02 15:17:20,059 [main] WARN c.n.m.Customer [Customer.java:53] - 상품의 재고 부족
+2023-09-02 15:40:30,213 [main] INFO c.n.m.Counter [Counter.java:25] - 고객 한도 초과
+2023-09-02 15:54:32,175 [main] INFO c.n.m.Counter [Counter.java:25] - 고객 한도 초과
+2023-09-02 16:05:12,847 [main] INFO c.n.m.Counter [Counter.java:29] - 고객 한도 초과
+2023-09-02 16:15:08,334 [main] INFO c.n.m.Customer [Customer.java:29] - receive buylist : 1
+2023-09-02 16:15:08,336 [main] WARN c.n.m.Customer [Customer.java:48] - 입력한 상품이 존재 x
+2023-09-02 16:15:59,218 [main] INFO c.n.m.Customer [Customer.java:29] - receive buylist : 1
+2023-09-02 16:15:59,220 [main] WARN c.n.m.Customer [Customer.java:53] - 상품의 재고 부족
+2023-09-02 16:18:00,223 [main] INFO c.n.m.Customer [Customer.java:29] - receive buylist : 1
+2023-09-02 16:18:00,225 [main] WARN c.n.m.Customer [Customer.java:53] - 상품의 재고 부족
+2023-09-02 16:28:31,369 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 1
+2023-09-02 16:28:31,372 [main] WARN c.n.m.Customer [Customer.java:57] - 상품의 재고 부족
+2023-09-02 16:38:24,570 [main] WARN c.n.m.Customer [Customer.java:78] - basket is null
+2023-09-02 16:43:41,362 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 1
+2023-09-02 16:44:41,761 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 1
+2023-09-02 16:50:52,698 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 1
+2023-09-02 17:02:13,653 [main] INFO c.n.m.Counter [Counter.java:29] - 고객 한도 초과
+2023-09-02 17:02:13,663 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 1
+2023-09-02 17:02:13,666 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 1
+2023-09-02 17:02:13,667 [main] WARN c.n.m.Customer [Customer.java:52] - 입력한 상품이 존재 x
+2023-09-02 17:02:13,669 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 1
+2023-09-02 17:02:13,669 [main] WARN c.n.m.Customer [Customer.java:57] - 상품의 재고 부족
+2023-09-02 17:02:13,670 [main] WARN c.n.m.Customer [Customer.java:78] - basket is null
+2023-09-02 17:02:13,673 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 1
+2023-09-02 17:02:13,673 [main] WARN c.n.m.Customer [Customer.java:57] - 상품의 재고 부족
+2023-09-02 17:32:41,947 [main] INFO c.n.m.Counter [Counter.java:25] - 고객 한도 초과
+2023-09-02 17:34:21,330 [main] INFO c.n.m.Counter [Counter.java:15] - 장바구니가 비어있음 size : 0
+2023-09-02 17:43:34,180 [main] INFO c.n.m.Counter [Counter.java:20] - 장바구니가 비어있음 size : 0
+2023-09-02 17:43:58,940 [main] INFO c.n.m.Counter [Counter.java:20] - 장바구니가 비어있음 size : 0
+2023-09-02 17:44:09,202 [main] INFO c.n.m.Counter [Counter.java:20] - 장바구니가 비어있음 size : 0
+2023-09-02 17:44:09,216 [main] INFO c.n.m.Counter [Counter.java:30] - 고객 한도 초과
+2023-09-02 17:44:22,202 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 1
+2023-09-02 17:44:22,217 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 1
+2023-09-02 17:44:22,218 [main] WARN c.n.m.Customer [Customer.java:52] - 입력한 상품이 존재 x
+2023-09-02 17:44:22,219 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 1
+2023-09-02 17:44:22,220 [main] WARN c.n.m.Customer [Customer.java:57] - 상품의 재고 부족
+2023-09-02 17:44:22,221 [main] WARN c.n.m.Customer [Customer.java:78] - basket is null
+2023-09-02 17:44:22,222 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 1
+2023-09-02 17:44:22,222 [main] WARN c.n.m.Customer [Customer.java:57] - 상품의 재고 부족
+2023-09-02 17:45:48,066 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:57] - buylist storage list : 2
+2023-09-02 17:45:48,075 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 2
