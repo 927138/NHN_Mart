@@ -38,7 +38,7 @@ class CounterTest {
         Counter counter = new Counter();
         counter.pay(basket.getFoods(), 5000);
 
-        Assertions.assertEquals(4000, counter.getTotal());
+        Assertions.assertEquals(4000, counter.getTotal_pay());
     }
 
 

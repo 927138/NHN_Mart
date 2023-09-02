@@ -7,10 +7,8 @@ public class BuyList {
 
     private final ArrayList<Item> items = new ArrayList<>();
 
-    // TODO add 메서드 생성
-
     void add(Item item){
-        this.items.add(item);
+        items.add(item);
     }
 
     public ArrayList<Item> getItems() {

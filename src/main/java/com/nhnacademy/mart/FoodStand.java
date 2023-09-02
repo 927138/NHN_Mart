@@ -7,15 +7,16 @@ public class FoodStand {
 
     private final ArrayList<Food> foods = new ArrayList<>();
 
-    // TODO add 메서드 구현
 
     public void add(Food food){
-        this.foods.add(food);
+        foods.add(food);
     }
 
-    // TODO 장바구니에 담은 Food 삭제 구
     public void delete(Food food){
-        this.foods.remove(food);
+        if(!foods.contains(food)){
+            throw new IllegalArgumentException("존재하지 않는 상품");
+        }
+        foods.remove(food);
     }
 
     public List<Food> getFoods() {

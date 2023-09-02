@@ -29,6 +29,8 @@ public class NhnMart {
     }
 
     public FoodStand getFoodStand() {
+        if(foodStand.getFoods().isEmpty())
+            throw new IllegalArgumentException("마트에 상품이 없음");
         return foodStand;
     }
 

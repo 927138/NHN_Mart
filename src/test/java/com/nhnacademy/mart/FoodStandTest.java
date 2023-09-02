@@ -16,4 +16,14 @@ class FoodStandTest {
 
         Assertions.assertThrows(IllegalArgumentException.class, ()->fs.delete(new Food("파", 500)));
     }
+
+    @Test
+    @DisplayName("success delete")
+    void sdelete(){
+        FoodStand fs = new FoodStand();
+        fs.add(new Food("양파", 2000));
+
+        fs.delete(new Food("양파", 2000));
+        Assertions.assertEquals(0, fs.getFoods().size());
+    }
 }
