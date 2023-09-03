@@ -18,10 +18,6 @@ public class NhnMartShell {
 
         BuyList buyList = inputBuyListFromShell();
 
-        for(BuyList.Item i : buyList.getItems()){
-            System.out.println(i);
-        }
-
         Customer ji = new Customer(buyList);
 
         // 장바구니를 챙긴다.

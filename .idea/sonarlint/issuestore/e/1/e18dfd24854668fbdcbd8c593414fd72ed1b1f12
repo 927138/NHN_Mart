@@ -1,11 +1,5 @@
 
-t	java:S127="XRefactor the code in order to not assign to this loop counter from within the loop body.(üÊü¢8 À¥‰¥1
-G	java:S106"+Replace this use of System.out by a logger.(ÚÅâ¸8§À¥‰¥1
-L	java:S106"+Replace this use of System.out by a logger.(›Äæ÷üÿÿÿÿ8§À¥‰¥1
-L	java:S106"+Replace this use of System.out by a logger.(´‹¹öþÿÿÿÿ8¨À¥‰¥1
-O
-java:S1135"2Complete the task associated to this TODO comment.(Û¾³³8¨À¥‰¥1
-N
-java:S1135)"2Complete the task associated to this TODO comment.(´èÂu8©À¥‰¥1
-L	java:S1063"+Replace this use of System.out by a logger.(ÆÁºùúÿÿÿÿ8«À¥‰¥1
-F	java:S106A"+Replace this use of System.out by a logger.(éƒ‹K8¬À¥‰¥1
+t	java:S127;"XRefactor the code in order to not assign to this loop counter from within the loop body.(üÊü¢8Èù†ª¥1
+G	java:S106"+Replace this use of System.out by a logger.(Ã ×ï8Ïù†ª¥1
+L	java:S106"+Replace this use of System.out by a logger.(›Äæ÷üÿÿÿÿ8Ïù†ª¥1
+L	java:S106"+Replace this use of System.out by a logger.(´‹¹öþÿÿÿÿ8Ïù†ª¥1

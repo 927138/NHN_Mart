@@ -1,7 +1,11 @@
 package com.nhnacademy.mart;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 public class Customer {
 
+    private static final Logger logger = LoggerFactory.getLogger(Customer.class);
     // 고객 구매 목록
     private final BuyList buyList;
     // 고객 장바구니
@@ -28,7 +32,7 @@ public class Customer {
     public void pickFoods(FoodStand foodStand){
 
         // 로그 : 넘겨받은 장바구니의 개수 확인
-        System.out.println("고객 장바구니 개수 : " + buyList.getItems().size());
+        logger.info("장바구니 상품 개수 : {}", buyList.getItems().size());
         for(BuyList.Item i : buyList.getItems()){
             String product = i.getName();
             int count = i.getAmount();

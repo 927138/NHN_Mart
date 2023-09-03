@@ -17,7 +17,15 @@ _
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 c
 3src/main/java/com/nhnacademy/mart/NhnMartShell.java,e/1/e18dfd24854668fbdcbd8c593414fd72ed1b1f12
-\
-,src/main/java/com/nhnacademy/mart/test1.java,f/b/fb2e233d03226c31e304f1ad474c8a4da5cd83ca
-[
-+src/main/java/com/nhnacademy/mart/test.java,f/7/f7aa4af66d994df9e4e40675444439ea9cbe77af
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+d
+4src/test/java/com/nhnacademy/mart/FoodStandTest.java,5/a/5ac2ca1e03c4b09e3fb1afe8ef41cfd0cfa9ca29
+b
+2src/test/java/com/nhnacademy/mart/NhnMartTest.java,9/8/98fbe9fd8b6b8875f96080fdb45468b2cb8a7573
+b
+2src/test/java/com/nhnacademy/mart/CounterTest.java,7/0/70fee2c0043e8ddaa59a1b20ad2947dc2911edba
+9
+	myApp.log,6/f/6f3f1fb927221d320c72715c4e8f9b18d94c717c
+c
+3src/test/java/com/nhnacademy/mart/CustomerTest.java,8/d/8dd7058fe318a650476c155e4b7d1ee2e5164f44

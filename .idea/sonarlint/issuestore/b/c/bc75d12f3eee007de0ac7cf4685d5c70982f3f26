@@ -1,4 +1,6 @@
 
-p	java:S116"TRename this field "total_pay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şëİÕ8ºöà‰¥1
-u
-java:S1450"XRemove the "total_pay" field and declare it as a local variable in the relevant methods.(şëİÕ8Üêá‰¥1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òËòşùÿÿÿÿ8àöé©¥1
+p	java:S116"TRename this field "total_pay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şëİÕ8ãöé©¥1
+o	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¼ãüıÿÿÿÿ8äöé©¥1
+F	java:S106"+Replace this use of System.out by a logger.(í«c8åöé©¥1
+L	java:S106"+Replace this use of System.out by a logger.(Ÿ›µøøÿÿÿÿ8åöé©¥1

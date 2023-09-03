@@ -43,3 +43,12 @@
 2023-09-02 17:44:22,222 [main] WARN c.n.m.Customer [Customer.java:57] - 상품의 재고 부족
 2023-09-02 17:45:48,066 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:57] - buylist storage list : 2
 2023-09-02 17:45:48,075 [main] INFO c.n.m.Customer [Customer.java:33] - receive buylist : 2
+2023-09-03 14:51:34,185 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:55] - 콘솔에서 입력받은 문자 토큰 개수 : 6
+2023-09-03 14:51:34,193 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:63] - buy list에 저장된 상품 개수 확인 : 3
+2023-09-03 14:55:42,934 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:51] - 콘솔에서 입력받은 문자 토큰 개수 : 6
+2023-09-03 14:55:42,944 [main] INFO c.n.m.NhnMartShell [NhnMartShell.java:59] - buy list에 저장된 상품 개수 확인 : 3
+2023-09-03 14:55:42,944 [main] INFO c.n.m.Customer [Customer.java:35] - 장바구니 상품 개수 : 3
+2023-09-03 14:56:23,033 [main] INFO c.n.m.Customer [Customer.java:35] - 장바구니 상품 개수 : 1
+2023-09-03 14:56:23,036 [main] INFO c.n.m.Customer [Customer.java:35] - 장바구니 상품 개수 : 1
+2023-09-03 14:56:23,037 [main] INFO c.n.m.Customer [Customer.java:35] - 장바구니 상품 개수 : 1
+2023-09-03 14:56:23,039 [main] INFO c.n.m.Customer [Customer.java:35] - 장바구니 상품 개수 : 1
